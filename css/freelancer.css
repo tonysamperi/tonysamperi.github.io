@@ -4,17 +4,17 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
- ul.list-group-tony{
+.list-group-tony{
      width: 50%;
      margin: 0 auto;
  }
 
-ul.list-group-tony a{
+.list-group-tony a{
     background: #2c3e50;
     color: #FFF;
     text-align: center;
 }
-ul.list-group-tony a:hover{
+.list-group-tony a:hover{
     background: #18bc9c;
     color: #FFF;
 }
