@@ -1,5 +1,6 @@
 #project folders to ignore
 demo
+.idea
 
 # Windows image file caches
 Thumbs.db
