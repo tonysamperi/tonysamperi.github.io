@@ -1,0 +1,166 @@
+{
+  "experiences": [
+    {
+      "isCurrent": true,
+      "role": "Frontend engineer",
+      "startDate": 1584230400000,
+      "employer": "Crispy Bacon > GFT > UBI Banca",
+      "endDate": 253402214400000,
+      "summary": "Developments on single page applications with the following technologies: AngularJS, Bootstrap 3, Grunt, Gulp",
+      "duties": [
+        "Development and maintenance of new features",
+        "Frontend architecture: development and maintenance of shared UI components (directives)",
+        "Maintenance of existings libs and apps",
+        "FE ownership and code review"
+      ],
+      "technologies": [
+        "HTML",
+        "jQuery",
+        "AngularJS",
+        "Bootstrap 3",
+        "CSS3",
+        "SASS",
+        "RequireJS",
+        "SVN (TortoiseSVN)",
+        "Grunt",
+        "Gulp",
+        "Gitlab pipelines"
+      ]
+    },
+    {
+      "role": "Software engineer",
+      "startDate": 1512950400000,
+      "employer": "Fides > Reply > UBI Banca",
+      "endDate": 1583452800000,
+      "summary": "Developments on single page applications with the following technologies: AngularJS, Angular, Spring Boot",
+      "duties": [
+        "Development of single page applications concerning access management and security",
+        "Frontend architecture: development and maintenance of a SDK for shared UI components",
+        "Maintenance of existings libs and apps",
+        "Custom vector icons / icons font (Photoshop/Illustrator)"
+      ],
+      "technologies": [
+        "HTML",
+        "jQuery",
+        "AngularJS",
+        "Bootstrap 3",
+        "CSS3",
+        "Angular 4+",
+        "SASS",
+        "Ionic 4",
+        "Java",
+        "Spring Boot",
+        "SVN (TortoiseSVN)",
+        "Gulp"
+      ]
+    },
+    {
+      "role": "Full-stack developer",
+      "startDate": 1498867200000,
+      "employer": "Sostanza s.r.l.",
+      "endDate": 1506816000000,
+      "summary": "Website and plugin building",
+      "duties": [
+        "Website and template development with Wordpress",
+        "Plugins development for Wordpress, Magento, Wix",
+        "Integration with platforms such as Zapier"
+      ],
+      "technologies": [
+        "Wordpress",
+        "PHP7",
+        "CSS3",
+        "SASS",
+        "Javascript",
+        "jQuery"
+      ]
+    },
+    {
+      "role": "Freelance developer",
+      "startDate": 1491004800000,
+      "employer": "CISL Scuola Bergamo",
+      "endDate": 1493510400000,
+      "summary": "Single page application for appointments booking and management",
+      "duties": [
+        "UI development",
+        "REST services in PHP"
+      ],
+      "technologies": [
+        "HTML",
+        "jQuery",
+        "AngularJS",
+        "Bootstrap 3",
+        "CSS3",
+        "PHP 5.6",
+        "MySQL"
+      ]
+    },
+    {
+      "role": "Frontend developer",
+      "startDate": 1512950400000,
+      "employer": "Beije > Accenture > UBI Banca",
+      "endDate": 1490140800000,
+      "summary": "Developments on single page applications with the following technologies: AngularJS, Spring",
+      "duties": [
+        "Develop features for the Homebanking website",
+        "Develop features for UBI and IW mobile apps (Money, SDD ecc...)",
+        "Frontend architecture: development of plugins (jQuery or AngularJS) with CMS connection",
+        "Maintenance of existings libs, plugins and apps"
+      ],
+      "technologies": [
+        "HTML",
+        "jQuery",
+        "CSS3",
+        "AngularJS",
+        "Bootstrap 3",
+        "Grunt",
+        "J2EE",
+        "Spring",
+        "Hibernate",
+        "SVN",
+        "Git (Gitlab)"
+      ]
+    },
+    {
+      "role": "Developer and trainer (Freelance)",
+      "startDate": 1388534400000,
+      "employer": "",
+      "endDate": 1483228800000,
+      "summary": "Several freelance projects as developer or trainer, using web technologies",
+      "duties": [
+      ],
+      "technologies": [
+        "HTML",
+        "jQuery",
+        "CSS3",
+        "AngularJS",
+        "Bootstrap 3",
+        "Grunt",
+        "J2EE",
+        "Spring",
+        "Hibernate",
+        "SVN",
+        "Git (Gitlab)"
+      ]
+    },
+    {
+      "role": "Web developer",
+      "startDate": 1304208000000,
+      "employer": "Provincia di Bergamo",
+      "endDate": 1349049600000,
+      "summary": "Developments on websites with Joomla",
+      "duties": [
+        "Website and template development with Joomla",
+        "Environments setup (LAMP)",
+        "Content management",
+        "Data management"
+      ],
+      "technologies": [
+        "HTML",
+        "jQuery",
+        "CSS3",
+        "Joomla",
+        "MySQL"
+      ]
+    }
+  ]
+}

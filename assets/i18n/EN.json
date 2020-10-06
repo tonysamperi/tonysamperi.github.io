@@ -1,0 +1,95 @@
+{
+  "_empty_": "",
+  "aboutPage": {
+    "body": "Thanks for downloading this app, which was made with ♥",
+    "title": "Antonino Samperi",
+    "whatIDo": "what I do"
+  },
+  "app": {
+    "clearPreferencesKo": "It wasn't possibile to restore default settings!",
+    "clearPreferencesOk": "Default settings restored!",
+    "createDbError": "Can't retrieve settings, using default options",
+    "exit": "Exit",
+    "name": "Antonino Samperi",
+    "footer": "developed by Tony Samperi © 2020"
+  },
+  "generalDictionary": {
+    "and": "and",
+    "thereAre": "there are",
+    "thereIs": "there is",
+    "between": "between",
+    "select": "select..."
+  },
+  "homePage": {
+    "title": "Home"
+  },
+  "portfolioPage": {
+    "filtering": "filtering",
+    "filterBy": "filter by",
+    "filteredBy": "filtered by",
+    "filteringProjects": "projects",
+    "projects": "projects",
+    "showing": "showing",
+    "showingAll": "showing all projects",
+    "technologies": "technologies",
+    "title": "web developer portfolio"
+  },
+  "resumePage": {
+    "currentJob": "current",
+    "downloadPDF": "download PDF version",
+    "duties": "duties",
+    "experience": "working experiences",
+    "technologies": "technologies",
+    "title": "resume"
+  },
+  "routes": {
+    "about": "about",
+    "portfolio": "portfolio",
+    "resume": "resume",
+    "settings": "settings"
+  },
+  "settingsPage": {
+    "title": "settings",
+    "general": {
+      "title": "general",
+      "language": {
+        "EN": "english (EN)",
+        "US": "english (US)",
+        "IT": "italian"
+      },
+      "placeholder": "language"
+    },
+    "animations": {
+      "title": "animations",
+      "page": "page transitions",
+      "elements": "element animations"
+    },
+    "theme": {
+      "title": "theme",
+      "dark": "dark",
+      "light": "light",
+      "autoNightMode": "automatic night mode",
+      "autoNightModeHours": "(from 21:00 to 7:00)",
+      "placeholder": "theme",
+      "stickyHeader": "stiky header"
+    },
+    "reset": {
+      "confirm": "Restore default settings?",
+      "description": "click the following button to restore default settings.",
+      "resetButton": "reset",
+      "title": "defaults"
+    }
+  },
+  "units": {
+    "and": "and",
+    "day": "day",
+    "days": "days",
+    "hours": "hours",
+    "milliseconds": "milliseconds",
+    "minutes": "minutes",
+    "months": "months",
+    "seconds": "seconds",
+    "weeks": "weeks",
+    "years": "years"
+  }
+}

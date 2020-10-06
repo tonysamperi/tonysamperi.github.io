@@ -1,0 +1,93 @@
+{
+  "_empty_": "",
+  "aboutPage": {
+    "body": "Grazie per aver scaricato questa app, che è stata fatta con ♥",
+    "title": "Antonino Samperi",
+    "whatIDo": "what I do"
+  },
+  "app": {
+    "clearPreferencesKo": "Non è stato possibile ripristinate le opzioni predefinite!",
+    "clearPreferencesOk": "Ripristinate le opzioni predefinite!",
+    "createDbError": "Impossibile recuperare le impostazioni, saranno usate le impostazioni predefinite.",
+    "exit": "Uscire",
+    "name": "Antonino Samperi",
+    "footer": "sviluppata da Tony Samperi © 2020"
+  },
+  "generalDictionary": {
+    "and": "e",
+    "thereAre": "ci sono",
+    "thereIs": "c'è",
+    "between": "fra",
+    "select": "selezionare..."
+  },
+  "homePage": {
+    "title": "Home"
+  },
+  "portfolioPage": {
+    "filtering": "filtrando progetti",
+    "filterBy": "filtra per",
+    "filteredBy": "filtrati per",
+    "filteringProjects": "",
+    "projects": "progetti",
+    "showing": "mostrando",
+    "showingAll": "mostrando tutti i progetti",
+    "title": "web developer portfolio"
+  },
+  "resumePage": {
+    "currentJob": "attuale",
+    "downloadPDF": "scarica versione PDF",
+    "duties": "mansioni",
+    "experience": "esperienze lavorative",
+    "technologies": "tecnologie",
+    "title": "curriculum online"
+  },
+  "routes": {
+    "about": "about",
+    "portfolio": "portfolio",
+    "resume": "curriculum vitae",
+    "settings": "impostazioni"
+  },
+  "settingsPage": {
+    "title": "impostazioni",
+    "general": {
+      "title": "generali",
+      "language": {
+        "EN": "inglese (EN)",
+        "US": "inglese (US)",
+        "IT": "italiano"
+      },
+      "placeholder": "lingua"
+    },
+    "animations": {
+      "title": "animazioni",
+      "page": "transizione di pagina",
+      "elements": "animazione degli elementi"
+    },
+    "theme": {
+      "title": "tema",
+      "dark": "scuro",
+      "light": "chiaro",
+      "autoNightMode": "modalità notturna automatica",
+      "autoNightModeHours": "(dalle 21:00 alle 7:00)",
+      "placeholder": "tema",
+      "stickyHeader": "header bloccata"
+    },
+    "reset": {
+      "confirm": "Ripristinare le opzioni predefinite?",
+      "description": "fare click sul seguente bottone per ripristinare le impostazioni.",
+      "resetButton": "ripristina",
+      "title": "predefiniti"
+    }
+  },
+  "units": {
+    "day": "giorno",
+    "days": "giorni",
+    "hours": "ore",
+    "milliseconds": "millisecondi",
+    "minutes": "minuti",
+    "months": "mesi",
+    "seconds": "secondi",
+    "weeks": "settimane",
+    "years": "anni"
+  }
+}
