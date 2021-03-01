@@ -6,12 +6,13 @@
     "whatIDo": "what I do"
   },
   "app": {
-    "clearPreferencesKo": "It wasn't possibile to restore default settings!",
+    "clearPreferencesKo": "Couldn't restore default settings!",
     "clearPreferencesOk": "Default settings restored!",
     "createDbError": "Can't retrieve settings, using default options",
     "exit": "Exit",
     "name": "Antonino Samperi",
-    "footer": "developed by Tony Samperi © 2020"
+    "footer": "developed by Tony Samperi  © 2021",
+    "welcomeText": "Hi, I'm Antonino Samperi and I'm a senior software engineer. Welcome to my personal website!"
   },
   "generalDictionary": {
     "and": "and",
@@ -32,13 +33,15 @@
     "showing": "showing",
     "showingAll": "showing all projects",
     "technologies": "technologies",
-    "title": "web developer portfolio"
+    "title": "web developer portfolio",
+    "subtitle": "From web components to Angular web apps and Node.JS. Here are some of my latest web software development projects."
   },
   "resumePage": {
     "currentJob": "current",
     "downloadPDF": "download PDF version",
     "duties": "duties",
     "experience": "working experiences",
+    "presentation": "As software engeener my responsibilities include gathering user requirements, defining system functionality and writing code. I have a major experience in frontend technologies, like Javascript, HTML5 and CSS3, including related frameworks like Angular. I often develop rest services using languages like Javascript (NodeJS + Express), PHP, or Java (Spring Boot). I sometimes deal with UI design and UX requirements, like developing wireframes and prototypes (Adobe XD). My goal is to build high-quality, innovative and fully performing software that complies with coding standards and technical design.",
     "technologies": "technologies",
     "title": "resume"
   },

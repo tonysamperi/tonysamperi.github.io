@@ -6,12 +6,13 @@
     "whatIDo": "what I do"
   },
   "app": {
-    "clearPreferencesKo": "Non è stato possibile ripristinate le opzioni predefinite!",
+    "clearPreferencesKo": "Non è stato possibile ripristinare le opzioni predefinite!",
     "clearPreferencesOk": "Ripristinate le opzioni predefinite!",
     "createDbError": "Impossibile recuperare le impostazioni, saranno usate le impostazioni predefinite.",
     "exit": "Uscire",
     "name": "Antonino Samperi",
-    "footer": "sviluppata da Tony Samperi © 2020"
+    "footer": "sviluppata da Tony Samperi  © 2021",
+    "welcomeText": "Salve, sono Antonino Samperi e sono un senior software engineer. Benvenuti nel mio sito personale!"
   },
   "generalDictionary": {
     "and": "e",
@@ -31,6 +32,7 @@
     "projects": "progetti",
     "showing": "mostrando",
     "showingAll": "mostrando tutti i progetti",
+    "subtitle": "Da web components a web apps Angular e Node.JS. Di seguito alcuni dei miei ultimi progetti di sviluppo.",
     "title": "web developer portfolio"
   },
   "resumePage": {
@@ -38,6 +40,7 @@
     "downloadPDF": "scarica versione PDF",
     "duties": "mansioni",
     "experience": "esperienze lavorative",
+    "presentation": "In qualità di software engeener le mie responsabilità includono raccogliere i requisiti, definire le funzionalità e scrivere il codice. Ho una maggior esperienza nelle tecnologie frontend, come Javascript, HTML5 e CSS3, compresi frameworks correlati come Angular. Spesso sviluppo servizi rest utilizzando Javascript (NodeJS + Express), PHP, o Java (Spring Boot). Ogni tanto mi occupo di UI design e requsiti UX, ad esempio sviluppando wireframes e prototypes (Adobe XD). Il mio obiettivo è costruire software di alta qualità, innovativo e dalle massime performance, che soddisfi gli standard di sviluppo e progettazione tecnica.",
     "technologies": "tecnologie",
     "title": "curriculum online"
   },

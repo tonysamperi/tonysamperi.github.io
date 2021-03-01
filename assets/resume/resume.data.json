@@ -8,6 +8,7 @@
       "endDate": 253402214400000,
       "summary": "Developments on single page applications with the following technologies: AngularJS, Bootstrap 3, Grunt, Gulp",
       "duties": [
+        "Development of a new SPA with Angular 8 and Bootstrap 4",
         "Development and maintenance of new features",
         "Frontend architecture: development and maintenance of shared UI components (directives)",
         "Maintenance of existings libs and apps",
