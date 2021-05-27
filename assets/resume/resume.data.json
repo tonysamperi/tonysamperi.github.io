@@ -2,17 +2,19 @@
   "experiences": [
     {
       "isCurrent": true,
-      "role": "Frontend engineer",
+      "role": "Frontend lead",
       "startDate": 1584230400000,
       "employer": "Crispy Bacon > GFT > UBI Banca",
       "endDate": 253402214400000,
       "summary": "Developments on single page applications with the following technologies: AngularJS, Bootstrap 3, Grunt, Gulp",
       "duties": [
+        "Teamleading a small frontend team (2-3 people)",
         "Development of a new SPA with Angular 8 and Bootstrap 4",
-        "Development and maintenance of new features",
+        "Development and maintenance of new features on existing apps",
         "Frontend architecture: development and maintenance of shared UI components (directives)",
-        "Maintenance of existings libs and apps",
-        "FE ownership and code review"
+        "Maintenance and upgrade of existings libs and apps",
+        "FE ownership and code review",
+        "Server-side mocking with NodeJS and Express"
       ],
       "technologies": [
         "HTML",
@@ -25,7 +27,12 @@
         "SVN (TortoiseSVN)",
         "Grunt",
         "Gulp",
-        "Gitlab pipelines"
+        "Gitlab pipelines",
+        "Angular",
+        "RxJS",
+        "Typescript",
+        "NodeJS + Express",
+        "ESLint"
       ]
     },
     {
@@ -38,7 +45,8 @@
         "Development of single page applications concerning access management and security",
         "Frontend architecture: development and maintenance of a SDK for shared UI components",
         "Maintenance of existings libs and apps",
-        "Custom vector icons / icons font (Photoshop/Illustrator)"
+        "Custom vector icons / icons font (Photoshop/Illustrator)",
+        "Server-side mocking with NodeJS and Express"
       ],
       "technologies": [
         "HTML",
@@ -52,7 +60,10 @@
         "Java",
         "Spring Boot",
         "SVN (TortoiseSVN)",
-        "Gulp"
+        "Gulp",
+        "RxJS",
+        "Typescript",
+        "NodeJS + Express"
       ]
     },
     {
