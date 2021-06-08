@@ -37,6 +37,7 @@
     "subtitle": "From web components to Angular web apps and Node.JS. Here are some of my latest web software development projects."
   },
   "resumePage": {
+    "certifications": "certifications",
     "currentJob": "current",
     "downloadPDF": "download PDF version",
     "duties": "duties",

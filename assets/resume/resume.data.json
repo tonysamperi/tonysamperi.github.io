@@ -174,5 +174,53 @@
         "MySQL"
       ]
     }
+  ],
+  "certificates": [
+    {
+      "url": "https://www.hackerrank.com/certificates",
+      "releasedBy": "HackerRank",
+      "list": [
+        {
+          "label": "Angular (Basic)",
+          "id": "9717a3ed82c2"
+        },
+        {
+          "label": "JavaScript (Basic)",
+          "id": "7968836aea7e"
+        },
+        {
+          "label": "JavaScript (Intermediate)",
+          "id": "a1b527b2857b"
+        },
+        {
+          "label": "Node (Basic)",
+          "id": "f7800b509b7d"
+        },
+        {
+          "label": "Node.js (Intermediate)",
+          "id": "8ddafad52ae9"
+        },
+        {
+          "label": "Rest API (Intermediate)",
+          "id": "ea6bb66f4e66"
+        },
+        {
+          "label": "Problem Solving (Basic)",
+          "id": "362e829aba42"
+        },
+        {
+          "label": "SQL (Basic)",
+          "id": "7e3df8b40d33"
+        },
+        {
+          "label": "SQL (Intermediate)",
+          "id": "59324aa25b1e"
+        },
+        {
+          "label": "Java (Basic)",
+          "id": "c911c91aa626"
+        }
+      ]
+    }
   ]
 }
