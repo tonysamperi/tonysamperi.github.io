@@ -1,0 +1,127 @@
+{
+    "_empty_": "",
+    "about": {
+        "alsoAvailable": "is also available as Android app on",
+        "body": "Thanks for downloading this app, which was made with ♥",
+        "bottomApp": "For any inquiries, feel free to contact me through the page on the Google Play store. Your feedback is very appreciated.",
+        "bottomWeb": "For any inquiries, feel free to contact me through one of the following contacts. Your feedback is very appreciated.",
+        "contacts": "Contacts",
+        "title": "about this app"
+    },
+    "app": {
+        "clearPreferencesKo": "It wasn't possibile to restore default settings!",
+        "clearPreferencesOk": "Default settings restored!",
+        "createDbError": "Can't retrieve settings, using default options",
+        "exit": "Exit",
+        "name": "dates calculator",
+        "footer": "developed by Tony Samperi © 2020"
+    },
+    "birthday": {
+        "birthDayOfWeek": "birth day of week",
+        "dateOfBirth": "date of birth",
+        "intro": "here you can get some info regarding your age, birthdays and more.",
+        "nextBirthday": "next birthday",
+        "timeBeforeNextBirthday": "time before next birthday",
+        "title": "age calculator",
+        "yourAge": "your age",
+        "youWereBornOn": "you were born on"
+    },
+    "calculator": {
+        "add": "add",
+        "addBlock": "add fieldset",
+        "clear": "clear",
+        "endDate": "end date",
+        "errors": {
+            "timeRequired": "fill this field"
+        },
+        "includeTime": "choose initial time",
+        "operation": "operation",
+        "options": "options",
+        "pickHour": "pick hour",
+        "result": "result",
+        "setInitial": "set as start date",
+        "setToday": "select today",
+        "skipWeekends": "skip weekends",
+        "skipWeekendsInfo": "When active, weekends will be skipped for blocks where the selected unit is \"days\"",
+        "startDate": "start date",
+        "startOver": "start over",
+        "submit": "compute",
+        "subtract": "subtract",
+        "startingFrom": "starting from",
+        "theResultIs": "the recsult is",
+        "totalIs": "total is",
+        "toAdd": "to add",
+        "units": "units"
+    },
+    "generalDictionary": {
+        "and": "and",
+        "calculate": "calculate",
+        "check": "check",
+        "is": "is",
+        "isNot": "isn't",
+        "thereAre": "there are",
+        "thereIs": "there is",
+        "between": "between"
+    },
+    "leapYear": {
+        "intro": "In the Gregorian calendar, each leap year has 366 days instead of 365, by extending February to 29 days rather than the common 28. These extra days occur in each year which is an integer multiple of 4 (except for years evenly divisible by 100, which are not leap years unless evenly divisible by 400).<br />In popular tradition, the leap year would be a harbinger of misfortune, according to the manner of saying \"Anno bisesto, anno funesto\", which mean \"Leap year, baleful year\"",
+        "leap": "leap",
+        "selectedYear": "year",
+        "title": "leap year",
+        "upcomingLeapYears": "upcoming leap years"
+    },
+    "select": "select...",
+    "settingsPage": {
+        "title": "settings",
+        "general": {
+            "title": "general",
+            "language": {
+                "EN": "english (EN)",
+                "US": "english (US)",
+                "IT": "italian"
+            },
+            "placeholder": "language"
+        },
+        "animations": {
+            "title": "animations",
+            "page": "page transitions",
+            "elements": "element animations"
+        },
+        "theme": {
+            "title": "theme",
+            "dark": "dark",
+            "light": "light",
+            "autoNightMode": "automatic night mode",
+            "autoNightModeHours": "(from 21:00 to 7:00)",
+            "placeholder": "theme",
+            "stickyHeader": "stiky header"
+        },
+        "reset": {
+            "confirm": "Restore default settings?",
+            "description": "click the following button to restore default settings.",
+            "resetButton": "reset",
+            "title": "defaults"
+        }
+    },
+    "tabs": {
+        "birthday": "birthday",
+        "add": "add",
+        "info": "info",
+        "leapYear": "leap year",
+        "range": "range"
+    },
+    "units": {
+        "and": "and",
+        "day": "day",
+        "days": "days",
+        "hours": "hours",
+        "milliseconds": "milliseconds",
+        "minutes": "minutes",
+        "months": "months",
+        "seconds": "seconds",
+        "week": "week",
+        "weeks": "weeks",
+        "year": "year",
+        "years": "years"
+    }
+}

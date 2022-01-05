@@ -1,0 +1,127 @@
+{
+    "_empty_": "",
+    "about": {
+        "alsoAvailable": "è disponibile come app Android su",
+        "body": "Grazie per aver scaricato questa app, che è stata fatta con ♥",
+        "bottomApp": "Per qualsiasi richiesta, sentiti libero di contattarmi tramite la pagina sul Google Play store. Il tuo feedback è molto apprezzato.",
+        "bottomWeb": "Per qualsiasi richiesta, sentiti libero di utilizzare i seguenti contatti. Il tuo feedback è molto apprezzato.",
+        "contatcs": "Contatti",
+        "title": "A proposito di questa app"
+    },
+    "app": {
+        "clearPreferencesKo": "Non è stato possibile ripristinate le opzioni predefinite!",
+        "clearPreferencesOk": "Ripristinate le opzioni predefinite!",
+        "createDbError": "Impossibile recuperare le impostazioni, saranno usate le impostazioni predefinite.",
+        "exit": "Uscire",
+        "name": "dates calculator",
+        "footer": "sviluppata da Tony Samperi © 2020"
+    },
+    "birthday": {
+        "birthDayOfWeek": "giorno di nascita",
+        "dateOfBirth": "data di nascita",
+        "intro": "qui puoi ottenere informazioni riguardo la tua età, i tuoi compleanni e altro.",
+        "nextBirthday": "prossimo compleanno",
+        "timeBeforeNextBirthday": "al prossimo compleanno mancano",
+        "title": "calcolo età",
+        "yourAge": "la tua età",
+        "youWereBornOn": "sei nato/a di"
+    },
+    "calculator": {
+        "add": "aggiungi",
+        "addBlock": "aggiungi gruppo",
+        "clear": "pulisci",
+        "endDate": "data finale",
+        "errors": {
+            "timeRequired": "compila questo campo"
+        },
+        "includeTime": "scegli l'orario iniziale",
+        "operation": "operazione",
+        "options": "opzioni",
+        "pickHour": "scegli l'orario",
+        "result": "risultato",
+        "setInitial": "imposta come data iniziale",
+        "setToday": "vai a oggi",
+        "skipWeekends": "salta i weekend",
+        "skipWeekendsInfo": "Con questa opzione attiva, saranno saltati i weekend, per i blocchi in cui l'unità selezionata è \"giorni\"",
+        "startDate": "data iniziale",
+        "startOver": "da capo",
+        "submit": "calcola",
+        "subtract": "sottrai",
+        "startingFrom": "partendo da",
+        "theResultIs": "il risultato è",
+        "totalIs": "la somma è",
+        "toAdd": "da sommare",
+        "totalDiff": "la differenza totale è di",
+        "units": "unità"
+    },
+    "generalDictionary": {
+        "and": "e",
+        "calculate": "calcola",
+        "check": "controlla",
+        "info": "info",
+        "is": "è",
+        "isNot": "non è",
+        "thereAre": "ci sono",
+        "thereIs": "c'è",
+        "between": "fra"
+    },
+    "leapYear": {
+        "intro": "Un anno bisestile è un anno solare in cui avviene la periodica intercalazione di un giorno aggiuntivo nell'anno stesso, un accorgimento utilizzato in quasi tutti i calendari solari (quali quelli giuliano e gregoriano) per evitare lo slittamento delle stagioni: ogni 128 anni (per il giuliano) e ogni 3323 anni\n            (per il gregoriano) si accumula un giorno in più di ritardo rispetto all'evento astronomico.<br />Per correggere questo slittamento, agli anni \"normali\" di 365 giorni (ogni quattro anni) si intercalano gli anni \"bisestili\" di 366: il giorno in più viene inserito nel mese di febbraio, il più corto dell'anno, che negli anni bisestili arriva a contare 29 giorni anziché 28. In questo modo si può ottenere una durata media dell'anno pari a un numero non intero di giorni.<br />Nella tradizione popolare l'anno bisestile sarebbe foriero di sventure, secondo il detto anno bisesto, anno funesto.",
+        "leap": "bisestile",
+        "selectedYear": "l'anno",
+        "title": "anno bisestile",
+        "upcomingLeapYears": "prossimi anni bisestili"
+    },
+    "select": "selezionare...",
+    "settingsPage": {
+        "title": "impostazioni",
+        "general": {
+            "title": "generali",
+            "language": {
+                "EN": "inglese (EN)",
+                "US": "inglese (US)",
+                "IT": "italiano"
+            },
+            "placeholder": "lingua"
+        },
+        "animations": {
+            "title": "animazioni",
+            "page": "transizione di pagina",
+            "elements": "animazione degli elementi"
+        },
+        "theme": {
+            "title": "tema",
+            "dark": "scuro",
+            "light": "chiaro",
+            "autoNightMode": "modalità notturna automatica",
+            "autoNightModeHours": "(dalle 21:00 alle 7:00)",
+            "placeholder": "tema",
+            "stickyHeader": "header bloccata"
+        },
+        "reset": {
+            "confirm": "Ripristinare le opzioni predefinite?",
+            "description": "fare click sul seguente bottone per ripristinare le impostazioni.",
+            "resetButton": "ripristina",
+            "title": "predefiniti"
+        }
+    },
+    "tabs": {
+        "add": "somma",
+        "leapYear": "anno bisestile",
+        "range": "intervalli",
+        "birthday": "compleanno"
+    },
+    "units": {
+        "day": "giorno",
+        "days": "giorni",
+        "hours": "ore",
+        "milliseconds": "millisecondi",
+        "minutes": "minuti",
+        "months": "mesi",
+        "seconds": "secondi",
+        "week": "settimana",
+        "weeks": "settimane",
+        "year": "anno",
+        "years": "anni"
+    }
+}
