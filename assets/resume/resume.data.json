@@ -8,11 +8,14 @@
       "endDate": 253402214400000,
       "summary": "Developments and governance of projects concerning the company e-commerce",
       "duties": [
-        "Developer on SAP Hybris+Magnolia, CAS, and the app written in React Native",
-        "Development of internal apps using Angular, NestJS, Keycloak",
+        "Developer on SAP Hybris, CAS, and the app (React Native)",
+        "Management of development tools and processes (GIT, Jenkins, Gulp, Jest, Polly, Noibu, Gitlab)",
+        "Development of internal apps using Angular, NestJS, Keycloak (Automating common operations)",
+        "Application debug (Splunk)",
         "Functional analysis",
-        "Data analysis",
-        "Second level customer care agent"
+        "Data analysis (CloudWatch)",
+        "Second level customer care agent (Salesforce)",
+        "Progect management with external supplier"
       ],
       "technologies": [
         "MySQL",
@@ -255,6 +258,16 @@
         {
           "label": "Java (Basic)",
           "id": "c911c91aa626"
+        }
+      ]
+    },
+    {
+      "url": "https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=",
+      "releasedBy": "AWS Training",
+      "list": [
+        {
+          "label": "AWS Training Essentials",
+          "id": "hz77h8Fe00imkjUgaNWLCA2"
         }
       ]
     }
