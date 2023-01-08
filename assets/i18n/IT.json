@@ -1,6 +1,8 @@
 {
   "_empty_": "",
   "aboutPage": {
+    "aboutMe": "I'm a software engineer specialised in frontend and backend development for complex scalable web apps. I worked on several enterprise applications, building my experience in big projects. I like developing stuff on my own, you can find some of my creations in my portfolio and online resume",
+    "aboutMe": "Sono un software engineer specializzato in sviluppo frontend e backend di applicazioni web complesse e scalabili. Ho lavorato su numerose applicazioni enterprise, rafforzando la mia esperienza in grossi progetti. Mi piace sviluppare soluzioni anche da solo, ho riportato alcune mie creazioni nella sezione portfolio e nel curriculum online",
     "body": "Grazie per aver scaricato questa app, che è stata fatta con ♥",
     "title": "Antonino Samperi",
     "whatIDo": "what I do"
@@ -11,7 +13,7 @@
     "createDbError": "Impossibile recuperare le impostazioni, saranno usate le impostazioni predefinite.",
     "exit": "Uscire",
     "name": "Antonino Samperi",
-    "footer": "sviluppata da Tony Samperi  © 2021",
+    "footer": "sviluppata da Tony Samperi  © %s",
     "welcomeText": "Salve, sono Antonino Samperi e sono un senior software engineer. Benvenuti nel mio sito personale!"
   },
   "generalDictionary": {
