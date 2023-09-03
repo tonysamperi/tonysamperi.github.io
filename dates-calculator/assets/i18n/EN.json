@@ -14,7 +14,7 @@
         "createDbError": "Can't retrieve settings, using default options",
         "exit": "Exit",
         "name": "dates calculator",
-        "footer": "developed by Tony Samperi © 2020"
+        "footer": "developed by Tony Samperi © %s"
     },
     "birthday": {
         "birthDayOfWeek": "birth day of week",
@@ -71,6 +71,9 @@
         "title": "leap year",
         "upcomingLeapYears": "upcoming leap years"
     },
+    "privacy": {
+        "title": "Privacy policy"
+    },
     "select": "select...",
     "settingsPage": {
         "title": "settings",
@@ -117,6 +120,7 @@
         "hours": "hours",
         "milliseconds": "milliseconds",
         "minutes": "minutes",
+        "month": "month",
         "months": "months",
         "seconds": "seconds",
         "week": "week",

@@ -14,7 +14,7 @@
         "createDbError": "Impossibile recuperare le impostazioni, saranno usate le impostazioni predefinite.",
         "exit": "Uscire",
         "name": "dates calculator",
-        "footer": "sviluppata da Tony Samperi © 2020"
+        "footer": "sviluppata da Tony Samperi © %s"
     },
     "birthday": {
         "birthDayOfWeek": "giorno di nascita",
@@ -72,6 +72,9 @@
         "title": "anno bisestile",
         "upcomingLeapYears": "prossimi anni bisestili"
     },
+    "privacy": {
+        "title": "Privacy policy"
+    },
     "select": "selezionare...",
     "settingsPage": {
         "title": "impostazioni",
@@ -117,6 +120,7 @@
         "hours": "ore",
         "milliseconds": "millisecondi",
         "minutes": "minuti",
+        "month": "mese",
         "months": "mesi",
         "seconds": "secondi",
         "week": "settimana",

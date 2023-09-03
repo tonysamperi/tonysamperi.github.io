@@ -1,34 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html><html lang="en"><head>
+		<meta charset="utf-8">
+		<title>Dates calculator</title>
 
-    <head>
-        <meta charset="utf-8" />
-        <title>Dates calculator</title>
+		<base href="/">
 
-        <base href="">
+		<meta name="color-scheme" content="light dark">
+		<meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="msapplication-tap-highlight" content="no">
 
-        <meta name="color-scheme" content="light dark" />
-        <meta name="viewport"
-              content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-        <meta name="format-detection" content="telephone=no" />
-        <meta name="msapplication-tap-highlight" content="no" />
+		<link rel="icon" type="image/png" href="assets/icon/favicon.png">
 
-        <link rel="icon" type="image/png" href="assets/icon/favicon.png" />
+		<!-- add to homescreen for ios -->
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<style>@charset "UTF-8";@keyframes sk-bouncedelay{0%,80%,to{transform:scale(0)}40%{transform:scale(1)}}*,*:before,*:after{box-sizing:border-box}html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(0,0,0,0)}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,Liberation Sans,sans-serif,"Apple Color Emoji","Segoe UI Emoji",Segoe UI Symbol,"Noto Color Emoji";font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff}html{box-sizing:border-box;-ms-overflow-style:scrollbar}*,*:before,*:after{box-sizing:inherit}:root{--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#007bff;--secondary:#6c757d;--success:#28a745;--info:#17a2b8;--warning:#ffc107;--danger:#dc3545;--light:#f8f9fa;--dark:#343a40;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--font-family-sans-serif:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";--font-family-monospace:SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace}*,*:before,*:after{box-sizing:border-box}html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(0,0,0,0)}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,Liberation Sans,sans-serif,"Apple Color Emoji","Segoe UI Emoji",Segoe UI Symbol,"Noto Color Emoji";font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff}@media print{*,*:before,*:after{text-shadow:none!important;box-shadow:none!important}@page{size:a3}body{min-width:992px!important}}.mat-typography{font:400 14px/20px Roboto,Helvetica Neue,sans-serif;letter-spacing:normal}.mat-typography{font:400 14px/20px Roboto,Helvetica Neue,sans-serif;letter-spacing:normal}.mat-typography{font:400 14px/20px Roboto,Helvetica Neue,sans-serif;letter-spacing:normal}@font-face{font-family:Roboto;font-style:normal;font-weight:400;src:local("Roboto"),local("Roboto"),url(roboto-v20-latin-regular.1e2d4d3a272629cd.woff2) format("woff2"),url(roboto-v20-latin-regular.7e4a045b9373d9c1.woff) format("woff")}.mat-typography{font:400 14px/20px Roboto,Helvetica Neue,sans-serif;letter-spacing:normal}html,body{height:100%}body .smp-bounce-spinner-wrap{position:absolute;top:0;left:0;width:100%;height:100%;z-index:1;background-color:#fafafa}body .smp-bounce-spinner-wrap>.smp-bounce-spinner{margin:100px auto 0;width:70px;text-align:center}body .smp-bounce-spinner-wrap>.smp-bounce-spinner>div{width:18px;height:18px;background-color:#3f51b5;border-radius:100%;display:inline-block;animation:sk-bouncedelay 1.4s infinite ease-in-out both}body .smp-bounce-spinner-wrap>.smp-bounce-spinner>div.bounce1{animation-delay:-.32s}body .smp-bounce-spinner-wrap>.smp-bounce-spinner>div.bounce2{animation-delay:-.16s}@media only screen and (min-width: 361px) and (max-width: 400px) and (-webkit-device-pixel-ratio: 3){body.smp-app *{font-size:1.2rem}}</style><link rel="stylesheet" href="styles.e914ebea22a1b211.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.e914ebea22a1b211.css"></noscript></head>
 
-        <!-- add to homescreen for ios -->
-        <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <link rel="stylesheet" href="styles.c64c7d326d54d5b34213.css"></head>
+	<body class="mat-typography smp-app mat-app-background">
+		<smp-root></smp-root>
+		<div class="smp-bounce-spinner-wrap">
+			<div class="smp-bounce-spinner">
+				<div class="bounce1"></div>
+				<div class="bounce2"></div>
+				<div class="bounce3"></div>
+			</div>
+		</div>
+	<script src="runtime.f77459a9fc6bf4cb.js" type="module"></script><script src="polyfills.67f62cc03203cc87.js" type="module"></script><script src="main.5aac0363cb9354d7.js" type="module"></script>
 
-    <body class="mat-typography smp-app mat-app-background">
-        <smp-root></smp-root>
-        <div class="smp-bounce-spinner-wrap">
-            <div class="smp-bounce-spinner">
-                <div class="bounce1"></div>
-                <div class="bounce2"></div>
-                <div class="bounce3"></div>
-            </div>
-        </div>
-    <script src="runtime-es2015.cfd00405f6146cd66211.js" type="module"></script><script src="runtime-es5.cfd00405f6146cd66211.js" nomodule defer></script><script src="polyfills-es5.befa4caa6291a171b67f.js" nomodule defer></script><script src="polyfills-es2015.f4d09162f068ef1dd55d.js" type="module"></script><script src="main-es2015.4344b48dfb4fc250f230.js" type="module"></script><script src="main-es5.4344b48dfb4fc250f230.js" nomodule defer></script></body>
 
-</html>
+</body></html>
